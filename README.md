@@ -31,4 +31,4 @@ By analysing the business questions, We arrive at
 https://anudeeppeela9.medium.com/starbucks-capstone-challenge-e901baeff5d2
 
 ## Acknowledgements
-I would thank Udacity for guidance
+I would thank Udacity for guidance and Starbucks for the data
